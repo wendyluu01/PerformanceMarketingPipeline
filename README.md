@@ -1,4 +1,4 @@
-# Real-Time Marketing Performance Dashboard
+# Real-Time Marketing Performance Pipeline
 
 An end-to-end, containerized marketing analytics platform that simulates real-time ad events, ingests them via an API, aggregates metrics using Airflow, and presents business-facing insights through an interactive dashboard.
 
